@@ -1,4 +1,6 @@
-
+html{
+  scroll-behavior: smooth;
+}
 .landing{
   background-image: url("../assets/backgrounds/h_img.jpg");
   background-position: center center;
@@ -30,7 +32,7 @@
   /* animation-iteration-count: infinite; */
 }
 #mouse-click {
-  animation: bounce 2s infinite;
+  animation: bounce 5s infinite;
 }
 
 @keyframes bounce {
