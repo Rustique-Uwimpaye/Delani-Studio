@@ -14,7 +14,7 @@ This project is a web application for Delani studio that shows details about the
 ![Capture2](https://user-images.githubusercontent.com/68597043/91664507-88dde100-eaa4-11ea-8453-0c82be940f8f.PNG)
 
 ## Live Page
-Click on the link below : 
+Click on the link below : https://rustique-uwimpaye.github.io/Delani-Studio/
 
 ## Technologies Used
 
